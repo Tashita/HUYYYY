@@ -116,7 +116,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _Depth_Fade_Distance: 6.6
+    - _Depth_Fade_Distance: 3.14
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _Direction: 0
@@ -168,12 +168,12 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Depth_Color: {r: 0.2142666, g: 0.42452827, b: 0.37634328, a: 0}
+    - _Depth_Color: {r: 0.21426657, g: 0.42452824, b: 0.37634325, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Foam_Color: {r: 0.34958562, g: 0.49056602, b: 0.33552864, a: 0.9843137}
     - _Horizon_Color: {r: 0.57075465, g: 1, b: 0.6086039, a: 0}
     - _Intersection_Foam_Color: {r: 0.6009173, g: 0.7647059, b: 0.5529412, a: 0.16862746}
-    - _Shallow_Color: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
+    - _Shallow_Color: {r: 0.30188674, g: 0.30188674, b: 0.30188674, a: 0.7372549}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Specular_Color: {r: 0.5126531, g: 0.5188679, b: 0.34020114, a: 0.50980395}
     - _Wave_Direction: {r: 0, g: 0, b: 0, a: 0}
