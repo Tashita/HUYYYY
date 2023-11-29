@@ -1,0 +1,840 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20231129 - 140258
+  m_EditorClassIdentifier: 
+  m_name: Session 20231129-140258
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 11/29/2023 2:02:58 PM
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 26
+  m_spawnDensity: 1
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 11/29/2023 2:13:50 PM
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 5 x 5 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 2:13:51 PM
+    scriptableObjectAssetGUID: 951ce416f17b2b64981df31611d46692
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 2:45:55 PM
+    scriptableObjectAssetGUID: bd965d853cbf62a499993b2e24e663db
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 2:48:33 PM
+    scriptableObjectAssetGUID: caeac69b276c18b4db91e763b2888b27
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 2:49:57 PM
+    scriptableObjectAssetGUID: 8e6e93b1c98a4864aa3bc2d6ff94127b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 2:57:06 PM
+    scriptableObjectAssetGUID: e494ab74b2e979f4e812ac9be434a0e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 2:58:27 PM
+    scriptableObjectAssetGUID: c5bd167d71955814cafd0144cc3d30d2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:00:21 PM
+    scriptableObjectAssetGUID: 54cd594f73aa3534bb0638be4512a32b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:01:20 PM
+    scriptableObjectAssetGUID: 6e872dd85af32a041b51dbb85037c660
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:06:20 PM
+    scriptableObjectAssetGUID: d4a818190ac3ece4ca43776c59eda937
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:09:44 PM
+    scriptableObjectAssetGUID: cad1c5f88628c8946bbe68cb0d77e9bb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:11:39 PM
+    scriptableObjectAssetGUID: 689fda246c5c4d942958b99ed11eb6d1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:14:47 PM
+    scriptableObjectAssetGUID: 61aee94001df24244a275981964ead68
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:17:52 PM
+    scriptableObjectAssetGUID: 63fcac6151ae32543a03c04fb8ea65f3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:19:28 PM
+    scriptableObjectAssetGUID: dbd02126395c1d944a3fe2ae021cb9b3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:20:21 PM
+    scriptableObjectAssetGUID: d441b5fdaa99c9447ba4108905e1387f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:21:43 PM
+    scriptableObjectAssetGUID: 1090b61a2d966204fa9f961fa3b245dd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:22:53 PM
+    scriptableObjectAssetGUID: 203ab64679fa9bb48b12e21253f0b297
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 3:24:07 PM
+    scriptableObjectAssetGUID: 27f10ed3175b8024897a50188dfa91f7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_0-20231129 - 141351
+    - Terrain_3_0-20231129 - 141351
+    - Terrain_0_3-20231129 - 141351
+    - Terrain_0_0-20231129 - 141351
+    - Terrain_1_1-20231129 - 141351
+    - Terrain_4_1-20231129 - 141351
+    - Terrain_2_1-20231129 - 141351
+    - Terrain_3_1-20231129 - 141351
+    - Terrain_4_4-20231129 - 141351
+    - Terrain_0_4-20231129 - 141351
+    - Terrain_0_2-20231129 - 141351
+    - Terrain_2_3-20231129 - 141351
+    - Terrain_4_0-20231129 - 141351
+    - Terrain_1_3-20231129 - 141351
+    - Terrain_4_2-20231129 - 141351
+    - Terrain_3_3-20231129 - 141351
+    - Terrain_3_4-20231129 - 141351
+    - Terrain_1_4-20231129 - 141351
+    - Terrain_2_2-20231129 - 141351
+    - Terrain_4_3-20231129 - 141351
+    - Terrain_3_2-20231129 - 141351
+    - Terrain_2_0-20231129 - 141351
+    - Terrain_0_1-20231129 - 141351
+    - Terrain_1_2-20231129 - 141351
+    - Terrain_2_4-20231129 - 141351
+    m_operationDateTime: 11/29/2023 4:00:53 PM
+    scriptableObjectAssetGUID: e66a9ee7aba46ee449a12db3be634130
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 68643c6bf4de4bf4ea4204ba26f32f61
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 59.282154
+  - guid: 6d6a19463299c8d4986e242ef05b9372
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 133.7833
+  - guid: a5c9dda4e2f9a244797f3d1d348b528d
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 133.25203
+  - guid: 92936419c14b653489a9f385f0cd2615
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 89.75137
+  - guid: d63a8f92cc4042a4c90a86c80c6750da
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 69.0948
+  - guid: de4db3520a3ea984ebdacd01bc34ddc0
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 109.12666
+  - guid: 05e30a1e33173fc41963adad56c2791b
+    isWorldmap: 0
+    recalculate: 0
+    min: 53.03206
+    max: 212.6595
+  - guid: c9a73b8b247375249bd7739b0e4db06b
+    isWorldmap: 0
+    recalculate: 0
+    min: 79.50121
+    max: 208.00317
+  - guid: 4b8a07b17f41afb4089362d40925d791
+    isWorldmap: 0
+    recalculate: 0
+    min: 41.844387
+    max: 122.31437
+  - guid: 9a1c8b47fdaa2f448b92392a9ddb8db0
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 85.0013
+  - guid: e9449707aefcb57469feed469b1b02c6
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 203.40935
+  - guid: 8b0e7a503200ba34d911ec3d8cd4db97
+    isWorldmap: 0
+    recalculate: 0
+    min: 90.03262
+    max: 283.44183
+  - guid: 2a49363d39976134b84c1b661f9622a8
+    isWorldmap: 0
+    recalculate: 0
+    min: 91.8764
+    max: 217.90958
+  - guid: c5907037a9fddb14c8938cee2ff37ce1
+    isWorldmap: 0
+    recalculate: 0
+    min: 72.53236
+    max: 216.03455
+  - guid: 46f28136de1f47a4ebe0ad07da72c4ec
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 96.032715
+  - guid: f5faaba67ae5c5c488457595737b5da2
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 190.28415
+  - guid: 7529a8baef432b646bf05a5a7671d131
+    isWorldmap: 0
+    recalculate: 0
+    min: 53.84457
+    max: 222.47214
+  - guid: b285757d0df44c34dbe53d492fa3d50c
+    isWorldmap: 0
+    recalculate: 0
+    min: 78.28245
+    max: 233.56607
+  - guid: c76b5afff6ee06742af61c92462f1237
+    isWorldmap: 0
+    recalculate: 0
+    min: 46.0007
+    max: 134.65831
+  - guid: 7006d457e52383e4e8dd4f73414ac0ee
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 87.03258
+  - guid: 82cb7875a10a74249ae3113b06440999
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 65.376
+  - guid: 98fd7825403fb1140964d03064c7b744
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 169.03383
+  - guid: 8689edd297753ab45be9edddd432592c
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 174.65892
+  - guid: 8916faf13f84d01459c859e0d528a68d
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 90.28263
+  - guid: 3908cb779f6753547bb74698c3c0faaf
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 64.06348
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}
